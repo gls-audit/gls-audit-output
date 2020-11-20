@@ -1,0 +1,39 @@
+###################Hardware Details>#####################################
+========================Sys Info==========================================
+SYSTEM-MANUFACTURER: QEMU
+SYSTEM-PRODUCT-NAME: Standard PC (i440FX + PIIX, 1996)
+SYSTEM-SERIAL-NUMBER: Not Specified
+SYSTEM-UUID: bf8d5a69-f99e-46c3-b09d-53136fd5f94b
+SYSTEM-FAMILY: Not Specified
+======================Baseboard Info======================================
+BASEBOARD-MANUFACTURER: 
+BASEBOARD-PRODUCT-NAME: 
+BASEBOARD-SERIAL-NUMBER: 
+======================Chasis Info=========================================
+CHASSIS-MANUFACTURER: QEMU
+CHASSIS-TYPE: Other
+CHASSIS-SERIAL-NUMBER: Not Specified
+CHASSIS-ASSET-TAG: Not Specified
+======================CPU Info============================================
+CPU-VERSION:  pc-i440fx-4.2
+CPU-FAMILY:  Other
+MAX-SPEED:   2000 MHz
+CORE-COUNT:  1
+THREAD-COUNT:  1
+======================Memory Info=========================================
+H/W path    Device  Class          Description
+==============================================
+/0/0                memory         96KiB BIOS
+/0/1000             memory         1GiB System Memory
+/0/1000/0           memory         1GiB DIMM RAM
+======================Disk Info===========================================
+H/W path    Device  Class          Description
+==============================================
+=====================Network Info=========================================
+H/W path    Device  Class          Description
+==============================================
+/0/100/3    eth0    network        82540EM Gigabit Ethernet Controller
+=====================Monitor Info=========================================
+SCREEN-RESOLUTION: 1024x768
+##########################################################################
+Information generated on Fri 20 Nov 17:59:33 +08 2020
