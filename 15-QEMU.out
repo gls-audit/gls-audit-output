@@ -1,0 +1,47 @@
+###################Hardware Details>#####################################
+========================Sys Info==========================================
+SYSTEM-MANUFACTURER: QEMU
+SYSTEM-PRODUCT-NAME: Standard PC (i440FX + PIIX, 1996)
+SYSTEM-SERIAL-NUMBER: Not Specified
+SYSTEM-UUID: ba163cb7-e7d6-42cc-82b2-bd3ea2ee5fd8
+SYSTEM-FAMILY: Not Specified
+======================Baseboard Info======================================
+BASEBOARD-MANUFACTURER: 
+BASEBOARD-PRODUCT-NAME: 
+BASEBOARD-SERIAL-NUMBER: 
+======================Chasis Info=========================================
+CHASSIS-MANUFACTURER: QEMU
+CHASSIS-TYPE: Other
+CHASSIS-SERIAL-NUMBER: Not Specified
+CHASSIS-ASSET-TAG: Not Specified
+======================CPU Info============================================
+CPU-VERSION:  pc-i440fx-4.2
+ pc-i440fx-4.2
+CPU-FAMILY:  Other
+ Other
+MAX-SPEED:   2000 MHz
+  2000 MHz
+CORE-COUNT:  1
+  1
+THREAD-COUNT:  1
+  1
+======================Memory Info=========================================
+H/W path              Device      Class          Description
+============================================================
+/0/0                              memory         96KiB BIOS
+/0/1000                           memory         2GiB System Memory
+/0/1000/0                         memory         2GiB DIMM RAM
+======================Disk Info===========================================
+H/W path              Device      Class          Description
+============================================================
+/0/100/1.1/0.0.0      /dev/sda    disk           10GB QEMU HARDDISK
+/0/100/1.1/0.1.0      /dev/cdrom  disk           QEMU DVD-ROM
+/0/100/1.1/0.1.0/0    /dev/cdrom  disk           
+=====================Network Info=========================================
+H/W path              Device      Class          Description
+============================================================
+/0/100/3              ens3        network        82540EM Gigabit Ethernet Controller
+=====================Monitor Info=========================================
+SCREEN-RESOLUTION: 1024x768
+##########################################################################
+Information generated on Sat Nov 21 01:33:52 AM EST 2020
