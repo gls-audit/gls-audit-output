@@ -1,0 +1,46 @@
+###################Hardware Details>#####################################
+========================Sys Info==========================================
+SYSTEM-MANUFACTURER: Acer
+SYSTEM-PRODUCT-NAME: Veriton M200-H81
+SYSTEM-SERIAL-NUMBER: UXVJSSI140E2023018
+SYSTEM-UUID: 83193840-e69c-11e3-aa6d-c43684ba2b00
+SYSTEM-FAMILY: To be filled by O.E.M.
+======================Baseboard Info======================================
+BASEBOARD-MANUFACTURER: Acer
+BASEBOARD-PRODUCT-NAME: H81H3-M4/V1.0
+BASEBOARD-SERIAL-NUMBER: 00000000
+======================Chasis Info=========================================
+CHASSIS-MANUFACTURER: Acer
+CHASSIS-TYPE: Desktop
+CHASSIS-SERIAL-NUMBER: 00000000
+CHASSIS-ASSET-TAG: To Be Filled By O.E.M.
+======================CPU Info============================================
+CPU-VERSION:  Intel(R) Core(TM) i5-4430S CPU @ 2.70GHz
+CPU-FAMILY:  Core i5
+MAX-SPEED:   3800 MHz
+CORE-COUNT:  4
+THREAD-COUNT:  4
+======================Memory Info=========================================
+H/W path                 Device     Class          Description
+==============================================================
+/0/0                                memory         64KiB BIOS
+/0/3b/3c                            memory         1MiB L2 cache
+/0/3b/3d                            memory         256KiB L1 cache
+/0/3b/3e                            memory         6MiB L3 cache
+/0/3f                               memory         16GiB System Memory
+/0/3f/0                             memory         8GiB DIMM DDR3 Synchronous 1600 MHz (0.6 ns)
+/0/3f/1                             memory         8GiB DIMM DDR3 Synchronous 1600 MHz (0.6 ns)
+======================Disk Info===========================================
+H/W path                 Device     Class          Description
+==============================================================
+/0/100/14/0/6/0.0.0      /dev/sdb   disk           31GB Cruzer Blade
+/0/100/14/0/6/0.0.0/0    /dev/sdb   disk           31GB 
+/0/100/1f.2/0.0.0        /dev/sda   disk           240GB P4-240
+=====================Network Info=========================================
+H/W path                 Device     Class          Description
+==============================================================
+/0/100/1c.5/0            enp2s0     network        RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+=====================Monitor Info=========================================
+SCREEN-RESOLUTION: 1366x768
+##########################################################################
+Information generated on Mon Jan 18 02:10:10 AM EST 2021
