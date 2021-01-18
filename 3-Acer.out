@@ -2,8 +2,8 @@
 ========================Sys Info==========================================
 SYSTEM-MANUFACTURER: Acer
 SYSTEM-PRODUCT-NAME: Veriton M200-H81
-SYSTEM-SERIAL-NUMBER: UXVJSSI140E2023228
-SYSTEM-UUID: 8f836e40-e36b-11e3-9098-72fcdf081100
+SYSTEM-SERIAL-NUMBER: UXVJSSI140E2023107
+SYSTEM-UUID: fbe062c4-e1fd-11e3-810e-c43efd7f1b00
 SYSTEM-FAMILY: To be filled by O.E.M.
 ======================Baseboard Info======================================
 BASEBOARD-MANUFACTURER: Acer
@@ -35,8 +35,8 @@ H/W path                 Device      Class          Description
 ===============================================================
 /0/100/14/0/8/0.0.0      /dev/sdb    disk           31GB Cruzer Blade
 /0/100/14/0/8/0.0.0/0    /dev/sdb    disk           31GB 
-/0/100/1f.2/0            /dev/cdrom  disk           DVDROM DH50N
-/0/100/1f.2/1            /dev/sda    disk           240GB P4-240
+/0/100/1f.2/0            /dev/sda    disk           240GB P4-240
+/0/100/1f.2/1            /dev/cdrom  disk           DVDROM DH50N
 =====================Network Info=========================================
 H/W path                 Device      Class          Description
 ===============================================================
@@ -44,4 +44,4 @@ H/W path                 Device      Class          Description
 =====================Monitor Info=========================================
 SCREEN-RESOLUTION: 1024x768
 ##########################################################################
-Information generated on Mon Jan 18 01:36:15 AM EST 2021
+Information generated on Mon Jan 18 01:43:57 AM EST 2021
