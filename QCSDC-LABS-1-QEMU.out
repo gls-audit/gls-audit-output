@@ -1,0 +1,42 @@
+###################Hardware Details>#####################################
+========================Sys Info==========================================
+SYSTEM-MANUFACTURER: QEMU
+SYSTEM-PRODUCT-NAME: Standard PC (i440FX + PIIX, 1996)
+SYSTEM-SERIAL-NUMBER: Not Specified
+SYSTEM-UUID: 03c7afe5-fb4e-409e-a4d4-2515cd3ddf3e
+SYSTEM-FAMILY: Not Specified
+======================Baseboard Info======================================
+BASEBOARD-MANUFACTURER: 
+BASEBOARD-PRODUCT-NAME: 
+BASEBOARD-SERIAL-NUMBER: 
+======================Chasis Info=========================================
+CHASSIS-MANUFACTURER: QEMU
+CHASSIS-TYPE: Other
+CHASSIS-SERIAL-NUMBER: Not Specified
+CHASSIS-ASSET-TAG: Not Specified
+======================CPU Info============================================
+CPU-VERSION:  pc-i440fx-5.2
+CPU-FAMILY:  Other
+MAX-SPEED:   2000 MHz
+CORE-COUNT:  1
+THREAD-COUNT:  1
+======================Memory Info=========================================
+H/W path              Device      Class          Description
+============================================================
+/0/0                              memory         96KiB BIOS
+/0/1000                           memory         2GiB System Memory
+/0/1000/0                         memory         2GiB DIMM RAM
+======================Disk Info===========================================
+H/W path              Device      Class          Description
+============================================================
+/0/100/1.1/0.0.0      /dev/sda    disk           21GB QEMU HARDDISK
+/0/100/1.1/0.1.0      /dev/cdrom  disk           QEMU DVD-ROM
+/0/100/1.1/0.1.0/0    /dev/cdrom  disk           
+=====================Network Info=========================================
+H/W path              Device      Class          Description
+============================================================
+/0/100/3              ens3        network        82540EM Gigabit Ethernet Controller
+=====================Monitor Info=========================================
+SCREEN-RESOLUTION: 1024x768
+##########################################################################
+Information generated on Thu Jul 22 02:12:34 AM EDT 2021
