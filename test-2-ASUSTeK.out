@@ -1,0 +1,47 @@
+###################Hardware Details>#####################################
+========================Sys Info==========================================
+SYSTEM-MANUFACTURER: ASUSTeK COMPUTER INC.
+SYSTEM-PRODUCT-NAME: X541NA
+SYSTEM-SERIAL-NUMBER: H4N0GR02W896169
+SYSTEM-UUID: 81d3b620-6efa-3d4e-a64f-71125da1d6ed
+SYSTEM-FAMILY: X
+======================Baseboard Info======================================
+BASEBOARD-MANUFACTURER: ASUSTeK COMPUTER INC.
+BASEBOARD-PRODUCT-NAME: X541NA
+BASEBOARD-SERIAL-NUMBER: NA
+======================Chasis Info=========================================
+CHASSIS-MANUFACTURER: ASUSTeK COMPUTER INC.
+CHASSIS-TYPE: Notebook
+CHASSIS-SERIAL-NUMBER: H4N0GR02W896169
+CHASSIS-ASSET-TAG: No Asset Tag
+======================CPU Info============================================
+CPU-VERSION:  Intel(R) Pentium(R) CPU N4200 @ 1.10GHz
+CPU-FAMILY:  Pentium
+MAX-SPEED:   2400 MHz
+CORE-COUNT:  4
+THREAD-COUNT:  4
+======================Memory Info=========================================
+H/W path                   Device      Class          Description
+=================================================================
+/0/0                                   memory         64KiB BIOS
+/0/c                                   memory         4GiB System Memory
+/0/c/0                                 memory         4GiB DIMM DDR3 Synchronous 1600 MHz (0.6 ns)
+/0/c/1                                 memory         DIMM [empty]
+/0/10                                  memory         224KiB L1 cache
+/0/11                                  memory         2MiB L2 cache
+======================Disk Info===========================================
+H/W path                   Device      Class          Description
+=================================================================
+/0/100/12/0                /dev/sda    disk           1TB ST1000LM035-1RK1
+/0/100/12/1                /dev/cdrom  disk           DVDRAM GUE1N
+/0/100/15/0/3/4/0.0.0      /dev/sdb    disk           16GB v221w
+/0/100/15/0/3/4/0.0.0/0    /dev/sdb    disk           16GB 
+=====================Network Info=========================================
+H/W path                   Device      Class          Description
+=================================================================
+/0/100/13/0                enp1s0      network        RTL810xE PCI Express Fast Ethernet controller
+/0/100/13.1/0              wlp2s0      network        QCA9565 / AR9565 Wireless Network Adapter
+=====================Monitor Info=========================================
+SCREEN-RESOLUTION: 1366x768
+##########################################################################
+Information generated on Tue 27 Jul 2021 06:44:32 AM EDT
