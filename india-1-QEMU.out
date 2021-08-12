@@ -1,0 +1,48 @@
+###################Hardware Details>#####################################
+========================Sys Info==========================================
+SYSTEM-MANUFACTURER: QEMU
+SYSTEM-PRODUCT-NAME: Standard PC (Q35 + ICH9, 2009)
+SYSTEM-SERIAL-NUMBER: Not Specified
+SYSTEM-UUID: 881553c9-84a1-483e-b474-e724eb4bba82
+SYSTEM-FAMILY: Not Specified
+======================Baseboard Info======================================
+BASEBOARD-MANUFACTURER: 
+BASEBOARD-PRODUCT-NAME: 
+BASEBOARD-SERIAL-NUMBER: 
+======================Chasis Info=========================================
+CHASSIS-MANUFACTURER: QEMU
+CHASSIS-TYPE: Other
+CHASSIS-SERIAL-NUMBER: Not Specified
+CHASSIS-ASSET-TAG: Not Specified
+======================CPU Info============================================
+CPU-VERSION:  pc-q35-5.2
+ pc-q35-5.2
+CPU-FAMILY:  Other
+ Other
+MAX-SPEED:   2000 MHz
+  2000 MHz
+CORE-COUNT:  1
+  1
+THREAD-COUNT:  1
+  1
+======================Memory Info=========================================
+H/W path               Device      Class          Description
+=============================================================
+/0/0                               memory         96KiB BIOS
+/0/1000                            memory         2GiB System Memory
+/0/1000/0                          memory         2GiB DIMM RAM
+======================Disk Info===========================================
+H/W path               Device      Class          Description
+=============================================================
+/0/100/2.3/0/0         /dev/vda    disk           10GB Virtual I/O device
+/0/100/1f.2/0.0.0      /dev/cdrom  disk           QEMU DVD-ROM
+/0/100/1f.2/0.0.0/0    /dev/cdrom  disk           
+=====================Network Info=========================================
+H/W path               Device      Class          Description
+=============================================================
+/0/100/2/0                         network        Virtio network device
+/0/100/2/0/0           enp1s0      network        Ethernet interface
+=====================Monitor Info=========================================
+SCREEN-RESOLUTION: 1024x768
+##########################################################################
+Information generated on Thu 12 Aug 2021 05:37:53 AM EDT
